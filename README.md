@@ -12,7 +12,7 @@ Runlet is a cloud-based job manager that offers device synchronization and relia
 
 The desktop distribution includes both the daemon and a full-featured GUI, and is recommended for Linux, Mac and Windows users. The ARM distribution includes only the daemon, and is recommended for resource constrained devices like the Raspberry Pi.
 
-All available distributions and versions can also be found at [releases](https://github.com/runletapp/runlet/releases).
+All available distributions and versions can be found at [releases](https://github.com/runletapp/runlet/releases).
 
 ## Contributing
 
