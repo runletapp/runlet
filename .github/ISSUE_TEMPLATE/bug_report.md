@@ -25,8 +25,8 @@ If applicable, add screenshots to help explain your problem.
 
 **Desktop (please complete the following information):**
  - OS: [e.g. Mac]
- - Version [e.g. 10.14.6]
- - Runlet Version [e.g. 1.0.0-alpha.1]
+ - OS Version: [e.g. 10.14.6]
+ - Runlet Version: [e.g. 1.0.0-alpha.1]
 
 **Additional context**
 Add any other context about the problem here.
