@@ -19,7 +19,7 @@ All available distributions and versions can be found at [releases](https://gith
 There are a couple of ways in which you can contribute to the app, for example:
 
 * [Submit bugs and feature requests](https://github.com/runletapp/runlet/issues), and help us verify as they are checked in
-* Review the [documentation](https://runlet.gitbook.io) and make pull requests for anything from typos to new content suggestion
+* Review the [documentation](https://runlet.app/docs) and make pull requests for anything from typos to new content suggestion
 
 ## Feedback
 
