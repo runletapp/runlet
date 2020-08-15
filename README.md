@@ -5,12 +5,11 @@
 ![GitHub All Releases](https://img.shields.io/github/downloads/runletapp/runlet/total)
 [![Bugs](https://img.shields.io/github/issues/runletapp/runlet/bug.svg)](https://github.com/runletapp/runlet/issues?utf8=✓&q=is%3Aissue+is%3Aopen+label%3Abug)
 [![Feature Requests](https://img.shields.io/github/issues/runletapp/runlet/feature-request.svg)](https://github.com/runletapp/runlet/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc)
+[![Gitter](https://badges.gitter.im/runletapp/community.svg)](https://gitter.im/runletapp/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 Runlet is a cloud-based job manager that offers device synchronization and reliable message delivery in a network of connected devices even after connectivity issues. This repository is where new releases are published, bugs are reported, and features are requested. 
 
 ## Download
-
-The desktop distribution includes both the daemon and a full-featured GUI, and is recommended for Linux, Mac and Windows users. The ARM distribution includes only the daemon, and is recommended for resource constrained devices like the Raspberry Pi.
 
 All available distributions and versions can be found at [releases](https://github.com/runletapp/runlet/releases).
 
