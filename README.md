@@ -1,6 +1,5 @@
 # <a href="https://runlet.app" target="_blank" rel="noopener noreferrer"><img width="24" src="https://avatars3.githubusercontent.com/u/46654969?s=200&v=4" alt="Runlet logo"></a> [Runlet](https://runlet.app)
 
-[![Build Status](https://dev.azure.com/runletapp/desktop/_apis/build/status/runletapp.desktop?branchName=master)](https://dev.azure.com/runletapp/desktop/_build/latest?definitionId=6&branchName=master)
 ![GitHub release](https://img.shields.io/github/release/runletapp/runlet)
 ![GitHub All Releases](https://img.shields.io/github/downloads/runletapp/runlet/total)
 [![Bugs](https://img.shields.io/github/issues/runletapp/runlet/bug.svg)](https://github.com/runletapp/runlet/issues?utf8=✓&q=is%3Aissue+is%3Aopen+label%3Abug)
